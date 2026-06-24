@@ -23,4 +23,4 @@ Registrar meu início nos estudos de Node.js e acompanhar minha evolução no de
 
 ---
 
-👩‍💻 **Yasmim Oliveira**
+👩🏻‍💻 **Yasmim Oliveira**
